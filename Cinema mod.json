@@ -1,12 +1,5 @@
 [
   {
-    "id": "ca624bc24e570438",
-    "username": "vindictus",
-    "password": "cinemamod",
-    "expiresAt": "2026-06-12",
-    "allowOffline": true
-  },
-  {
     "id": "013789495cdc352a",
     "username": "cici123",
     "password": "cici123",
@@ -25,6 +18,13 @@
     "username": "cinema",
     "password": "mod",
     "expiresAt": "2025-06-30",
+    "allowOffline": true
+  },
+  {
+    "id": "ca624bc24e570438",
+    "username": "vindictus",
+    "password": "modder",
+    "expiresAt": "2026-06-30",
     "allowOffline": true
   },
   {
