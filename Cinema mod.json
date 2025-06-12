@@ -28,6 +28,13 @@
     "allowOffline": true
   },
   {
+    "id": "c0ba53ae43eac289",
+    "username": "cinema",
+    "password": "free",
+    "expiresAt": "2025-06-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
