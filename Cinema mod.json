@@ -49,6 +49,13 @@
     "allowOffline": true
   },
   {
+    "id": "d6d05924bf2bd66a",
+    "username": "081315891630",
+    "password": "cinemamod",
+    "expiresAt": "2025-06-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_20",
     "username": "user2",
     "password": "pass2",
