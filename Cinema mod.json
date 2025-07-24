@@ -469,6 +469,13 @@
     "allowOffline": true
   },
   {
+    "id": "5a0d20fdfa7a6696",
+    "username": "6283180334746",
+    "password": "PPCine",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_20",
     "username": "user2",
     "password": "pass2",
